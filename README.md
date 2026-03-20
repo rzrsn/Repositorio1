@@ -42,13 +42,6 @@ git clone https://github.com/rzrsn/Repositorio1.git
 node index.js
 ```
 
-## Mejoras futuras
-
-* Integración con base de datos
-* Interfaz gráfica de usuario
-* Panel de monitoreo en tiempo real
-* Integración con sistemas de pago
-
 ## Autor
 
-Ana Ruiz
+Ana Laura Ruiz
